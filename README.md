@@ -2,6 +2,8 @@
 
 A full-stack web application that ingests two financial datasets (orders and payments), runs a deterministic reconciliation engine to find every discrepancy, and presents the results in an actionable dashboard with AI-powered explanations.
 
+**Live Demo:** [https://store-reconciler.vercel.app](https://store-reconciler.vercel.app)
+
 ---
 
 ## Architecture
